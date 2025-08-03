@@ -43,7 +43,7 @@ message.TextWrapped = true
 message.TextScaled = true
 message.TextColor3 = Color3.fromRGB(255, 255, 255)
 message.BackgroundTransparency = 1
-message.Text = "Roblox added an update which disabled animations if the animation ID doesn't exist in that game. (the netless STILL works though). I'll try to find other solutions to fix."
+message.Text = "Roblox added an update which disabled animations if the animation ID doesn't exist in that game. (the netless STILL works though). I'll try to find other solutions to fix, Be sure to follow me on roblox (CRINGE_X3)"
 message.Parent = mainFrame
 
 -- OK Button
